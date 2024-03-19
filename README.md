@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am currently exploring various technical fields and trying to make new projects! :)
 
 <!--
 **sulfur05/sulfur05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
